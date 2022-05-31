@@ -3,6 +3,7 @@ The classicmodels database is a retailer of scale models of classic cars databas
 
 #### The MySQL sample database schema consists of the following tables:
 
+
 * Customers: stores customer’s data.
 * Products: stores a list of scale model cars.
 * ProductLines: stores a list of product line categories.
@@ -11,3 +12,6 @@ The classicmodels database is a retailer of scale models of classic cars databas
 * Payments: stores payments made by customers based on their accounts.
 * Employees: stores all employee information as well as the organization structure such as who reports to whom.
 * Offices: stores sales office data.
+
+#### It also consist E-R Diagram
+
